@@ -44,3 +44,4 @@ criaCartao(
     'Tecnologia',
     'O que faz a tecnologia 5G ser superior às anteriores?',
     'Ela oferece velocidades de download e upload muito mais altas, maior capacidade de conectar dispositivos simultaneamente e uma latência (tempo de resposta) extremamente
+);
